@@ -48,7 +48,7 @@ function About() {
 						</p>
 						<div className="mt-2 flex items-center gap-4 md:mt-4">
 							<Link
-								href="/resume.pdf"
+								href="/resume_fin.pdf"
 								target="_blank"
 								className="w-fit cursor-pointer rounded-md bg-violet-500 px-4 py-2 text-sm text-white transition-colors hover:bg-violet-700 md:text-base dark:bg-violet-700 hover:dark:bg-violet-800"
 							>
